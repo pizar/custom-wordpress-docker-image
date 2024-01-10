@@ -1,2 +1,13 @@
-# custom-wordpress-docker-image
-Custom Docker wordpress image
+# Custom Wordpress Docker Image
+Unofficial wordpress repository. Some usefull image with some shortcut (starting from official).
+
+The generated images offer add some small building blocks that can be useful in the development phase (and beyond).
+All images have the wordpress version in the tag and some other keywords.
+
+## Keywords
+
+ - `ssl` - Version that enabled https on the docker image
+ - `composer` - Install composer on the docker image
+
+## Authors
+- www.pietroferraresi.name
